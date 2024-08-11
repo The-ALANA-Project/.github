@@ -14,10 +14,17 @@
 <br/>
 
 ### Impact
+The impact we aim to have is two-fold:
 
+- By lowering the barriers to entry and ensuring a clear understanding of why onchain technology can empower creators and builders, we help increase the overall adoption of these technologies. This will help them realize their full potential by utilizing the tools to their advantage and creating even more innovative use cases.
+- The second layer of impact comes from the research and development for The ALANA Project as a decentralized organization. We do investigative research and build social-layer tools and resources to foster community interactions along a healthy and balanced growth sentiment.
+<br/>
+
+### Organizational Structure
+**The ALAAN Project** started out as an extremely centralized organization with the persistent goal to decentralize over a longer period time. While the core of the project always k
 
 ### Organizational Working Groups
-
+In **The ALANA Project**
 
 ### Product Working Groups
 
