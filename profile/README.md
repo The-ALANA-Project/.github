@@ -9,7 +9,7 @@
 > [!NOTE]
 > **Free Resources**
 > - [x] [Article Series](https://mirror.xyz/the-alana-project.eth/DeQP_kgXvSw5GqeOSwZVgk6G7nziX9UXaRypZlVZqz0?referrerAddress=0x83E2B1525becEeE48Bc00ABb192813859dF6b7A6) on Mirror utilizing design and art-related metaphors to explain Blockchain Technology
-> - [x] [Bi-Weekly NewsFlash]() that comes with a healthy and digestible amount of information
+> - [x] [Bi-Weekly NewsFlash](https://mailchi.mp/the-alana-project.xyz/alanas-newsflash-17277585?e=49734bc2bd) that comes with a healthy and digestible amount of information
 > - [x] [Free Webinars](https://portal.fileverse.io/#/0x809b9454190db7335Fae4906F85719c9f222e630/member?chainId=100) interchanging between creator tools and empowering onchain technologies.
 > - [ ] More is on the way!
 <br/>
