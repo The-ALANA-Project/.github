@@ -17,9 +17,9 @@
 # Impact
 The impact we aim to have is three-fold:
 
-- By lowering the barriers to entry and ensuring a clear understanding of why onchain technology can empower creators and builders, we help increase the overall adoption of these technologies. This will help them realize their full potential by utilizing the tools to their advantage and creating even more innovative use cases. We do that by creating free, entertaining, and collaborative resources to which we actively invite.
-- Secondly, we are committed to building a self-sustaining community. Therefore, we built high-quality and innovative products in a collaborative way that aims to show tangible use cases for Web3 technology and therefore inspire others to do the same.
-- The third layer of impact comes from the research and development of The ALANA Project as a decentralized organization. We do investigative research and build social-layer tools and resources to foster community interactions along a healthy and balanced growth sentiment. Learn more about that by diving deeper [here](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure/tree/main).
+1. By lowering the barriers to entry and ensuring a clear understanding of why onchain technology can empower creators and builders, we help increase the overall adoption of these technologies. This will help them realize their full potential by utilizing the tools to their advantage and creating even more innovative use cases. We do that by creating free, entertaining, and collaborative resources to which we actively invite.
+2. Secondly, we are committed to building a self-sustaining community. Therefore, we built high-quality and innovative products in a collaborative way that aims to show tangible use cases for Web3 technology and therefore inspire others to do the same.
+3. The third layer of impact comes from the research and development of The ALANA Project as a decentralized organization. We do investigative research and build social-layer tools and resources to foster community interactions along a healthy and balanced growth sentiment. Learn more about that by diving deeper [here](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure/tree/main).
 <br/>
 
 # Values
