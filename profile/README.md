@@ -25,28 +25,25 @@ Originally, @Calla-Ji created ALANA as a 3D avatar to give a face to the Web3 Re
 <br/>
 <br/>
 ![The ALANA Project _ Internal Structure](https://github.com/user-attachments/assets/7278e6db-52d1-4770-bf93-0527ea20904f)
-*All membership NFTs for the different levels of roles in ALANA are distributed via Unlock Protocol memberships on OPMainnet as we intend to move our onchain governance soon to Optimism.*
+*All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet.*
 <br/>
 <br/>
 
 ### Working Groups
 Working groups in ALANA xxxx
-
+<br/>
+<br/>
 **Organizational Working Groups**
 
-- Strategy & Infrastructure | Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy.
-- Brand Identity & Socials | Actively design and maintain the ALANA brand identity, ensuring consistency and resonance across all relevant communication channels.
-- Onboarding & Community | Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
+- Strategy & Infrastructure: Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy.
+- Brand Identity & Socials: Actively design and maintain the ALANA brand identity, ensuring consistency and resonance across all relevant communication channels.
+- Onboarding & Community: Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
+<br/>
+<br/>
 
 **Product Working Groups**
-✨ ALANAmagazine
-Here, we produce & curate a high-end magazine that unites technology, culture, and lifestyle with a particular emphasis on the emergence of Web3.
 
-✨ ALANA's World
-Here, we create ALANA's story and build ALANA's virtual experiences as well as a video game, where players explore and learn about Web3.
-
-✨ ALANA's Boutique
-Here, we highlight and empower young designers and their brands in a virtual boutique as well as create and sell unique ALANA merchandise.
-
-✨ ALANA AI
-Here, we develop and define the ALANA AI, which will be our own non-human helper, serving as a domain expert, administrator, instigator, and guide to the ALANA forums, team members, and projects.
+- [ALANAmagazine](https://www.alanamagazine.xyz/): Producing and curating a unique high-end magazine that unites technology, culture, and lifestyle with a particular emphasis on the emergence of Web3.
+- ALANA AI: 
+- ALANA's Boutique: Curating and empowering young designers and their brands in a virtual boutique by establishing a unique phygital shopping experience powered by onchain and off-chain tools (BOSON Protocol, WooCommerce and Gelate/ on-demand tailoring).
+- ALANA's World: Create ALANA's story and build ALANA's virtual experiences as well as a video game, where players explore and learn about Web3.
