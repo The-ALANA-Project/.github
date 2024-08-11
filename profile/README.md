@@ -10,7 +10,7 @@
 > **Free Resources**
 > - [x] [Article Series](https://mirror.xyz/the-alana-project.eth/DeQP_kgXvSw5GqeOSwZVgk6G7nziX9UXaRypZlVZqz0?referrerAddress=0x83E2B1525becEeE48Bc00ABb192813859dF6b7A6) on Mirror utilizing design and art-related metaphors to explain Blockchain Technology
 > - [x] [Bi-Weekly NewsFlash]() that comes with a healthy and digestible amount of information
-> - [x] [Free Webinars](https://www.youtube.com/live/EHSOfWg7KLs?si=SbZeYCOki_n9mozK) interchanging between creator tools and empowering onchain technologies.
+> - [x] [Free Webinars](https://portal.fileverse.io/#/0x809b9454190db7335Fae4906F85719c9f222e630/member?chainId=100) interchanging between creator tools and empowering onchain technologies.
 > - [ ] More is on the way!
 <br/>
 
@@ -24,22 +24,22 @@ The impact we aim to have is two-fold:
 # Values
 The ALANA Project Community has a clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members. The layout of the values was inspired by [Dieter Rams'](https://en.wikipedia.org/wiki/Dieter_Rams) [10 Principles of Good Design](https://www.heurio.co/dieter-rams-10-principles-of-good-design). The ALANA Manifesto will be the primary gate to enter the ALANA Project community to ensure value alignment among the diverse members. It is a [freely mintable NFT]() via an Unlock Protocol-powered smart contract.
 <br/>
-<br/>
 
 # Organizational Structure
 Originally, stellaachenbach (founder) created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
 To learn more about the project and how we are organized, we suggest the following:
 - **[Take the Web3 LEARNER Journey](https://zealy.io/cw/thealanaproject):** A gamified learner journey that helps with gaining some basic knowledge about Web3 and the ALANA Community.
 - **[Understand our Value Alignment](https://app.unlock-protocol.com/checkout?id=ed49cb2f-536c-45c6-9232-101abdad33b8):** Read and mint the ALANA Manifesto and understand which values we hold up high.
-- **[Mint an Executive Summary about the Work we do](https://app.unlock-protocol.com/checkout?id=8f65c770-38a2-4e4e-ac20-7afd37da0525):** The ALANA Codex is a summary of all the meetings we do on a weekly basis. Once you connect with the NFT minted to Darkblock.io, you will see even more than the sheet summary, such as screenshots, work-in-progress images, etc.
+- **[Mint an Executive Summary about the Work we do](https://app.unlock-protocol.com/checkout?id=8f65c770-38a2-4e4e-ac20-7afd37da0525):** The ALANA Codex is a summary of all the meetings we do on a weekly basis. Once you connect with the NFT minted to [Darkblock.io](https://www.darkblock.io/), you will see even more than the sheet summary, such as screenshots, work-in-progress images, etc.
 <br/>
-ALANA's Manifesto is the base NFT to gain access to community channels and interactions. For those who seek to join there are three different levels of memberships we have composed and voted on:
-- **Nucleus Apprentice**
-- **Nucleus Specialist**
-- **Nucleus Guardian**
+ALANA's Manifesto is the base NFT for gaining access to community channels and interactions (*access criteria coming soon*). For those who seek to join on a more serious basis, there are three different levels of memberships we have composed and voted on:
+
+- [**Nucleus Apprentice**](https://docs.google.com/document/d/1QxNqe_EMDYm8moYwPwHpVURuvwPdh0EmpYzAsz9Pjbc/edit?usp=sharing)
+- [**Nucleus Specialist**](https://docs.google.com/document/d/1IMN48Nqsyb1M2tMxlWM6It_G2QLmVnAF1aEJ8cVnGRM/edit?usp=sharing)
+- [**Nucleus Guardian**](https://docs.google.com/document/d/1mUF3ZXQEpcxW_vjlsLddv_vtp51dcVdCuUDMif6zHVA/edit?usp=sharing)
+
 <br/>
-<br/>
-*All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet.*
+*All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet and upon personal conversations with active Nucleus Guardians.*
 <br/>
 <br/>
 <br/>
