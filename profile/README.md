@@ -27,7 +27,16 @@ The ALANA Project Community has a clearly designed value structure in the form o
 <br/>
 
 # Organizational Structure
-Originally, stellaachenbach created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
+Originally, stellaachenbach (founder) created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
+To learn more about the project and how we are organized, we suggest the following:
+- **[Take the Web3 LEARNER Journey](https://zealy.io/cw/thealanaproject):** A gamified learner journey that helps with gaining some basic knowledge about Web3 and the ALANA Community.
+- **[Understand our Value Alignment](https://app.unlock-protocol.com/checkout?id=ed49cb2f-536c-45c6-9232-101abdad33b8):** Read and mint the ALANA Manifesto and understand which values we hold up high.
+- **[Mint an Executive Summary about the Work we do](https://app.unlock-protocol.com/checkout?id=8f65c770-38a2-4e4e-ac20-7afd37da0525):** The ALANA Codex is a summary of all the meetings we do on a weekly basis. Once you connect with the NFT minted to Darkblock.io, you will see even more than the sheet summary, such as screenshots, work-in-progress images, etc.
+<br/>
+ALANA's Manifesto is the base NFT to gain access to community channels and interactions. For those who seek to join there are three different levels of memberships we have composed and voted on:
+- **Nucleus Apprentice**
+- **Nucleus Specialist**
+- **Nucleus Guardian**
 <br/>
 <br/>
 *All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet.*
