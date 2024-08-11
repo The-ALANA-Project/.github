@@ -58,13 +58,13 @@ Working groups in ALANA can be categorized into two areas: Organizational WG's a
 ### Organizational Working Groups
 
 - **[Strategy & Infrastructure](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure.git):** Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization and circular economy (token engineering).
-- **[Brand Identity & Socials](xxx):** Actively design and maintain the ALANA brand identity, ensuring consistency (quality and information flow) across all relevant communication channels, target group optimization and the evaluation of feedback.
-- **[Onboarding & Community](xxx):** Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
+- **[Brand Identity & Socials](https://github.com/The-ALANA-Project/Brand_Identity_and_Socials):** Actively design and maintain the ALANA brand identity, ensuring consistency (quality and information flow) across all relevant communication channels, target group optimization and the evaluation of feedback.
+- **[Onboarding & Community](https://the-alana-project.xyz/starthere):** Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
 <br/>
 
 ### Product Working Groups
 
 - **[ALANAmagazine](https://www.alanamagazine.xyz/):** Producing and curating a unique high-end magazine that unites technology, culture, and lifestyle with a particular emphasis on the emergence of Web3.
-- **[ALANA AI](xxx):** Developing and defining artificial intelligence that is truly helpful to creators, serving as a personal assistant, domain expert, administrator, instigator, and guide to the ALANA communication channels, team members, and working groups.
+- **[ALANA AI](https://github.com/The-ALANA-Project/ALANA_AI):** Developing and defining artificial intelligence that is truly helpful to creators, serving as a personal assistant, domain expert, administrator, instigator, and guide to the ALANA communication channels, team members, and working groups.
 - **[ALANA's Boutique](xxx):** Curating and empowering young designers and their brands in a virtual boutique by establishing a unique phygital shopping experience powered by onchain and off-chain tools (BOSON Protocol, WooCommerce, and Gelato/ on-demand tailoring).
 - **[ALANA's World](xxx):** Designing and telling ALANA's fictional and non-fictional story through a gaming experience where players are invited to explore and learn about Web3 in an intuitive manner.
