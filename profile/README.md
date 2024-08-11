@@ -39,7 +39,9 @@ ALANA's Manifesto is the base NFT for gaining access to community channels and i
 - [**Nucleus Guardian**](https://docs.google.com/document/d/1mUF3ZXQEpcxW_vjlsLddv_vtp51dcVdCuUDMif6zHVA/edit?usp=sharing)
 
 <br/>
-_All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet and upon personal conversations with active Nucleus Guardians._
+
+*All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet and upon personal conversations with active Nucleus Guardians.*
+
 <br/>
 <br/>
 <br/>
