@@ -15,16 +15,18 @@
 <br/>
 
 # Impact
-The impact we aim to have is two-fold:
+The impact we aim to have is three-fold:
 
-- By lowering the barriers to entry and ensuring a clear understanding of why onchain technology can empower creators and builders, we help increase the overall adoption of these technologies. This will help them realize their full potential by utilizing the tools to their advantage and creating even more innovative use cases.
-- The second layer of impact comes from the research and development for The ALANA Project as a decentralized organization. We do investigative research and build social-layer tools and resources to foster community interactions along a healthy and balanced growth sentiment.
+- By lowering the barriers to entry and ensuring a clear understanding of why onchain technology can empower creators and builders, we help increase the overall adoption of these technologies. This will help them realize their full potential by utilizing the tools to their advantage and creating even more innovative use cases. We do that by creating free, entertaining, and collaborative resources to which we actively invite.
+- Secondly, we are committed to building a self-sustaining community. Therefore, we built high-quality and innovative products in a collaborative way that aims to show tangible use cases for Web3 technology and therefore inspire others to do the same.
+- The third layer of impact comes from the research and development of The ALANA Project as a decentralized organization. We do investigative research and build social-layer tools and resources to foster community interactions along a healthy and balanced growth sentiment. Learn more about that by diving deeper [here](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure/tree/main).
 <br/>
 
 # Values
 The ALANA Project Community has a clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members. The layout of the values was inspired by [Dieter Rams'](https://en.wikipedia.org/wiki/Dieter_Rams) [10 Principles of Good Design](https://www.heurio.co/dieter-rams-10-principles-of-good-design). The ALANA Manifesto will be the primary gate to enter the ALANA Project community to ensure value alignment among the diverse members. It is a [freely mintable NFT]() via an Unlock Protocol-powered smart contract.
 <br/>
 <br/>
+
 
 # Organizational Structure
 Originally, stellaachenbach (founder) created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
@@ -51,7 +53,7 @@ Working groups in ALANA can be categorized into two areas: Organizational WG's a
 <br/>
 ### Organizational Working Groups
 
-- **[Strategy & Infrastructure](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure.git):** Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy.
+- **[Strategy & Infrastructure](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure.git):** Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy (token engineering).
 - **[Brand Identity & Socials](xxx):** Actively design and maintain the ALANA brand identity, ensuring consistency and resonance across all relevant communication channels.
 - **[Onboarding & Community](xxx):** Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
 <br/>
