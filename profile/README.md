@@ -36,7 +36,7 @@ Working groups in ALANA can be categorized into two areas: Organizational WG's a
 <br/>
 ### Organizational Working Groups
 
-- **[Strategy & Infrastructure]([xxx](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure.git)):** Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy.
+- **[Strategy & Infrastructure](https://github.com/The-ALANA-Project/Strategy_and_Infrastructure.git):** Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy.
 - **[Brand Identity & Socials](xxx):** Actively design and maintain the ALANA brand identity, ensuring consistency and resonance across all relevant communication channels.
 - **[Onboarding & Community](xxx):** Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
 <br/>
