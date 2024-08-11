@@ -22,18 +22,27 @@ The impact we aim to have is two-fold:
 
 ### Organizational Structure
 **The ALAAN Project** started out as an extremely centralized organization with the persistent goal to decentralize over a longer period time. While the core of the project always k
-
-### Organizational Working Groups
-In **The ALANA Project**
-
-### Product Working Groups
+<br/>
 
 
-**Here are some ideas to get you started:**
+### Working Groups
+Working groups in ALANA xxxx
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Organizational Working Groups**
+
+- Strategy & Infrastructure | Research, design, and develop robust infrastructure around the project to ensure its longevity, continuous decentralization, and circular economy.
+- Brand Identity & Socials | Actively design and maintain the ALANA brand identity, ensuring consistency and resonance across all relevant communication channels.
+- Onboarding & Community | Fostering a welcoming and engaged community by facilitating engaging onboarding processes by  implementing newly developed tools and strategies.
+
+**Product Working Groups**
+✨ ALANAmagazine
+Here, we produce & curate a high-end magazine that unites technology, culture, and lifestyle with a particular emphasis on the emergence of Web3.
+
+✨ ALANA's World
+Here, we create ALANA's story and build ALANA's virtual experiences as well as a video game, where players explore and learn about Web3.
+
+✨ ALANA's Boutique
+Here, we highlight and empower young designers and their brands in a virtual boutique as well as create and sell unique ALANA merchandise.
+
+✨ ALANA AI
+Here, we develop and define the ALANA AI, which will be our own non-human helper, serving as a domain expert, administrator, instigator, and guide to the ALANA forums, team members, and projects.
