@@ -21,6 +21,9 @@ The impact we aim to have is two-fold:
 - The second layer of impact comes from the research and development for The ALANA Project as a decentralized organization. We do investigative research and build social-layer tools and resources to foster community interactions along a healthy and balanced growth sentiment.
 <br/>
 
+# Values
+The ALANA Project Community has a clear designed value structure to ensure internal alignment that is communicated to new members  inspired by Dieter Rams 10 Principles of Good Design
+
 # Organizational Structure
 Originally, stellaachenbach created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
 <br/>
