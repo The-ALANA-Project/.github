@@ -21,9 +21,13 @@ The impact we aim to have is two-fold:
 <br/>
 
 ### Organizational Structure
-**The ALAAN Project** started out as an extremely centralized organization with the persistent goal to decentralize over a longer period time. While the core of the project always k
+Originally, @Calla-Ji created ALANA as a 3D avatar to give a face to the Web3 Revolution. The project has evolved since then, with the support of many contributors and partners, and has transitioned over time from a very centralized to a continuously decentralized project run by various members of ALANA's community. 
 <br/>
-
+<br/>
+![The ALANA Project _ Internal Structure](https://github.com/user-attachments/assets/7278e6db-52d1-4770-bf93-0527ea20904f)
+*All membership NFTs for the different levels of roles in ALANA are distributed via Unlock Protocol memberships on OPMainnet as we intend to move our onchain governance soon to Optimism.*
+<br/>
+<br/>
 
 ### Working Groups
 Working groups in ALANA xxxx
