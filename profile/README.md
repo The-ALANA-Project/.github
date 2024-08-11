@@ -23,12 +23,12 @@ The impact we aim to have is two-fold:
 
 # Values
 The ALANA Project Community has a clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members. The layout of the values was inspired by [Dieter Rams'](https://en.wikipedia.org/wiki/Dieter_Rams) [10 Principles of Good Design](https://www.heurio.co/dieter-rams-10-principles-of-good-design). The ALANA Manifesto will be the primary gate to enter the ALANA Project community to ensure value alignment among the diverse members. It is a [freely mintable NFT]() via an Unlock Protocol-powered smart contract.
+<br/>
 
 # Organizational Structure
 Originally, stellaachenbach created ALANA as a 3D avatar to give a face to the Web3 Revolution. As ALANA grew more popular among fellow designers and creators, stellaachenbach decided to utilize this attraction to evolve the once personal project into something more meaningful. Since then, and with the support of many contributors and partners, it has transitioned from a very centralized project to a continuously decentralized one run by various members of ALANA's community. 
 <br/>
 <br/>
-![The ALANA Project _ Internal Structure](https://github.com/user-attachments/assets/7278e6db-52d1-4770-bf93-0527ea20904f)
 *All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet.*
 <br/>
 <br/>
