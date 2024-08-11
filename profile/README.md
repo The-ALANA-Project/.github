@@ -32,7 +32,7 @@ To learn more about the project and how we are organized, we suggest the followi
 - **[Understand our Value Alignment](https://app.unlock-protocol.com/checkout?id=ed49cb2f-536c-45c6-9232-101abdad33b8):** Read and mint the ALANA Manifesto and understand which values we hold up high.
 - **[Mint an Executive Summary about the Work we do](https://app.unlock-protocol.com/checkout?id=8f65c770-38a2-4e4e-ac20-7afd37da0525):** The ALANA Codex is a summary of all the meetings we do on a weekly basis. Once you connect with the NFT minted to [Darkblock.io](https://www.darkblock.io/), you will see even more than the sheet summary, such as screenshots, work-in-progress images, etc.
 <br/>
-ALANA's Manifesto is the base NFT for gaining access to community channels and interactions (*access criteria coming soon*). For those who seek to join on a more serious basis, there are three different levels of memberships we have composed and voted on:
+ALANA's Manifesto is the base NFT for gaining access to community channels and interactions ( *access criteria coming soon* ). For those who seek to join on a more serious basis, there are three different levels of memberships we have composed and voted on:
 
 - [**Nucleus Apprentice**](https://docs.google.com/document/d/1QxNqe_EMDYm8moYwPwHpVURuvwPdh0EmpYzAsz9Pjbc/edit?usp=sharing)
 - [**Nucleus Specialist**](https://docs.google.com/document/d/1IMN48Nqsyb1M2tMxlWM6It_G2QLmVnAF1aEJ8cVnGRM/edit?usp=sharing)
@@ -42,7 +42,6 @@ ALANA's Manifesto is the base NFT for gaining access to community channels and i
 
 *All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet and upon personal conversations with active Nucleus Guardians.*
 
-<br/>
 <br/>
 <br/>
 
