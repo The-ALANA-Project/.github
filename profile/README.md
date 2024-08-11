@@ -43,7 +43,6 @@ ALANA's Manifesto is the base NFT for gaining access to community channels and i
 *All membership NFTs for the different levels of roles in ALANA are distributed via [Unlock Protocol](https://unlock-protocol.com/) memberships on OPMainnet and upon personal conversations with active Nucleus Guardians.*
 
 <br/>
-<br/>
 
 # Working Groups
 Working groups in ALANA can be categorized into two areas: Organizational WG's and Product WG's. Here is all you need to know:
