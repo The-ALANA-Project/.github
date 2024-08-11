@@ -1,7 +1,7 @@
-![The ALANA Project Banner](xxx)
-
-# Welcome to The ALANA Project
-
+![ALANA](https://github.com/user-attachments/assets/f85b4658-3fdd-4d57-99e2-6085e7ca58a0)
+<br/>
+<br/>
+<br/>
 ### Vision & Mission
 **The ALANA Project** is a diverse community that empowers creators and builders by guiding them into the decentralized world of the future. We achieve this through a multi-pronged approach by fostering a supportive and inclusive community, freely accessible educational resources, and collectively built products that educate in a fun and entertaining way on all interconnected topics of the onchain world. The products built within the community are a core part of creating a circular economy within and beyond the community.
 
