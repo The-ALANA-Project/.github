@@ -23,7 +23,7 @@ The impact we aim to have is three-fold:
 <br/>
 
 # Values
-The ALANA Project Community has a clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members. The layout of the values was inspired by [Dieter Rams'](https://en.wikipedia.org/wiki/Dieter_Rams) [10 Principles of Good Design](https://www.heurio.co/dieter-rams-10-principles-of-good-design). The ALANA Manifesto will be the primary gate to enter the ALANA Project community to ensure value alignment among the diverse members. It is a [freely mintable NFT]() via an Unlock Protocol-powered smart contract.
+The ALANA Project Community has a clearly designed value structure in the form of a Manifesto to ensure internal alignment that is communicated to new members. The layout of the values was inspired by [Dieter Rams'](https://en.wikipedia.org/wiki/Dieter_Rams) [10 Principles of Good Design](https://www.heurio.co/dieter-rams-10-principles-of-good-design). The ALANA Manifesto will be the primary gate to enter the ALANA Project community to ensure value alignment among the diverse members. It is a [freely mintable NFT](https://app.unlock-protocol.com/checkout?id=ed49cb2f-536c-45c6-9232-101abdad33b8) via an Unlock Protocol-powered smart contract.
 <br/>
 <br/>
 
